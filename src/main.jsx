@@ -392,7 +392,7 @@ function App() {
           <div className="section-heading">
             <div>
               <p className="section-kicker">Interactive Gallery</p>
-              <h3>Photos with searchable metadata</h3>
+              <h3>Photo Gallery</h3>
             </div>
 
             <div className="search-box">
@@ -454,8 +454,8 @@ function App() {
             {[
               ["Responsive UI", "Works across phone, tablet, and desktop using a flexible grid layout."],
               ["Search and filtering", "Photo data is stored as structured objects and filtered by category or text."],
-              ["Interactive modal", "Users can open photos, view metadata, and navigate between images."],
-              ["Dark mode", "Theme state changes the visual system across the whole application."],
+              ["Interactive modal", "Users can open photos, view information about the photos, and navigate between images."],
+              ["Dark/light mode mode", "Customizable theme state changes the visual system across the whole application."],
               ["Reusable code", "Gallery cards, photo data, filters, and UI sections are organized for expansion."],
               ["Deployment-ready", "This can be pushed to GitHub and deployed on Vercel as a live portfolio."],
             ].map(([title, text]) => (
@@ -474,11 +474,11 @@ function App() {
             <h3>Incoming Computer Science student</h3>
           </div>
           <p>
-            Hi, thanks for visiting my photography portfolio! I am interested in 
-            software development, design, art, photography, hackathons, piano, and 
-            ice skating. I built this website to practice frontend development turn 
+            Hi, thanks for visiting my photography portfolio! I am interested in
+            software development, design, art, photography, hackathons, piano, and
+            ice skating. I built this website to practice frontend development turn
             my photography collection into an interactive user experience. My goal
-            is to keep adding photos and improve the website. Feel free to send 
+            is to keep adding photos and improve the website. Feel free to send
             me an email at wucmichelle@gmail.com if you want to connect!
           </p>
         </section>

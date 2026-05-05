@@ -279,9 +279,7 @@ function App() {
             <p className="section-kicker">Coding Project</p>
             <h3>What this site demonstrates</h3>
             <p className="muted large">
-              This portfolio is meant to show practical frontend skills, not only
-              photography. Each feature was chosen to demonstrate a skill that future
-              employers, clubs, and recruiters can understand quickly.
+              This portfolio is meant to show some of my favourite photos with the addition of some practical frontend skills :)
             </p>
           </div>
 

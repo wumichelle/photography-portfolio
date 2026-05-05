@@ -357,8 +357,7 @@ function App() {
             <p>
               This site combines photography, UI design, structured data, filtering,
               search, responsive layout, animations, and an interactive image viewer.
-              It is designed as a personal portfolio project for future software
-              development opportunities.
+              It is designed as a fun personal portfolio project!
             </p>
             <div className="hero-actions">
               <a className="primary-button" href="#gallery">

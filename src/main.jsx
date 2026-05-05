@@ -352,13 +352,12 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.55 }}
           >
-            <span className="eyebrow">Incoming CS student building frontend projects</span>
+            <span className="eyebrow">Currently a senior in highschool</span>
             <h2>My photography portfolio 2026</h2>
             <p>
               This site combines photography, UI design, structured data, filtering,
               search, responsive layout, animations, and an interactive image viewer.
-              It is designed as a personal portfolio project for future software
-              development opportunities.
+              It is designed as a fun personal portfolio project!
             </p>
             <div className="hero-actions">
               <a className="primary-button" href="#gallery">
@@ -475,11 +474,12 @@ function App() {
             <h3>Incoming Computer Science student</h3>
           </div>
           <p>
-            I am interested in software development, design, and photography. I built
-            this website to practice frontend development and to show how coding can
-            turn a simple photo collection into an interactive user experience. My goal
-            is to keep adding projects, improve the code, and use this as a portfolio
-            for future internships, clubs, and coding opportunities.
+            Hi, thanks for visiting my photography portfolio! I am interested in 
+            software development, design, art, photography, hackathons, piano, and 
+            ice skating. I built this website to practice frontend development turn 
+            my photography collection into an interactive user experience. My goal
+            is to keep adding photos and improve the website. Feel free to send 
+            me an email at wucmichelle@gmail.com if you want to connect!
           </p>
         </section>
 

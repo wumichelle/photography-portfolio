@@ -474,11 +474,12 @@ function App() {
             <h3>Incoming Computer Science student</h3>
           </div>
           <p>
-            I am interested in software development, design, and photography. I built
-            this website to practice frontend development and to show how coding can
-            turn a simple photo collection into an interactive user experience. My goal
-            is to keep adding projects, improve the code, and use this as a portfolio
-            for future internships, clubs, and coding opportunities.
+            Hi, thanks for visiting my photography portfolio! I am interested in 
+            software development, design, art, photography, hackathons, piano, and 
+            ice skating. I built this website to practice frontend development turn 
+            my photography collection into an interactive user experience. My goal
+            is to keep adding photos and improve the website. Feel free to send 
+            me an email at wucmichelle@gmail.com if you want to connect!
           </p>
         </section>
 

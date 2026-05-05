@@ -6,7 +6,6 @@ import {
   ChevronLeft,
   ChevronRight,
   Code2,
-  Github,
   Mail,
   Moon,
   Search,
@@ -326,7 +325,7 @@ function App() {
           </div>
           <div className="contact-links">
             <a href="https://github.com/wumichelle" target="_blank" rel="noreferrer">
-              <Github size={18} /> GitHub
+              GitHub
             </a>
             <a href="https://www.linkedin.com/in/michelle-wu-649383304/" target="_blank" rel="noreferrer">
               LinkedIn

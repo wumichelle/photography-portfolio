@@ -26,7 +26,7 @@ const photos = [
       "A quiet winter scene photographed through a foggy or textured window, creating a soft, dreamlike layer over the snow and trees.",
     technical:
       "The photo uses obstruction and diffusion as part of the composition. The blurred top and bottom edges frame the snowy trees and make the scene feel distant and calm.",
-    image: "/photos/blurrywindow.jpeg",
+    image: "/photos/blurrywindow.jpg",
     tags: ["winter", "window", "soft-focus", "snow"],
   },
   {
@@ -40,7 +40,7 @@ const photos = [
       "A close still-life photo of coffee beans with a shallow depth of field and warm indoor tones.",
     technical:
       "The focus is placed on the beans inside the container while the background falls out of focus, showing control of depth and visual emphasis.",
-    image: "/photos/coffee.jpeg",
+    image: "/photos/coffee.jpg",
     tags: ["coffee", "still-life", "depth-of-field", "warm"],
   },
   {
@@ -54,7 +54,7 @@ const photos = [
       "An abstract close-up of metallic ribbon shapes, using reflection and shadow to create a dramatic composition.",
     technical:
       "The narrow focus and dark background isolate the gold strips, creating contrast between reflective texture and negative space.",
-    image: "/photos/decoration.jpeg",
+    image: "/photos/decoration.jpg",
     tags: ["abstract", "gold", "reflection", "macro"],
   },
   {
@@ -68,7 +68,7 @@ const photos = [
       "A food photo capturing dumplings in a pan, with browned edges and a wooden spoon adding a natural cooking detail.",
     technical:
       "The photo uses a low kitchen angle and warm highlights to show texture, steam, and the contrast between soft dumpling skin and crisp browned edges.",
-    image: "/photos/dumplings.jpeg",
+    image: "/photos/dumplings.jpg",
     tags: ["food", "dumplings", "kitchen", "texture"],
   },
   {
@@ -82,7 +82,7 @@ const photos = [
       "A nighttime photo of an outdoor heater glowing against snow and darkness.",
     technical:
       "The bright flame becomes the central subject, while the snow and black background create high contrast and a strong winter atmosphere.",
-    image: "/photos/fireoutside.jpeg",
+    image: "/photos/fireoutside.jpg",
     tags: ["night", "fire", "snow", "contrast"],
   },
   {
@@ -96,7 +96,7 @@ const photos = [
       "A bright red anthurium flower photographed against large green leaves.",
     technical:
       "The strong red-green color contrast makes the flower stand out, while the shallow depth of field softens the surrounding leaves.",
-    image: "/photos/flamingoflower.jpeg",
+    image: "/photos/flamingoflower.jpg",
     tags: ["flower", "plants", "red", "green"],
   },
   {
@@ -110,7 +110,7 @@ const photos = [
       "A small vase with red flowers placed among houseplants, creating a quiet domestic still-life scene.",
     technical:
       "The composition uses layered objects and soft indoor light, with the red flowers acting as the visual focal point.",
-    image: "/photos/flowerinvase.jpeg",
+    image: "/photos/flowerinvase.jpg",
     tags: ["still-life", "flowers", "vase", "home"],
   },
   {
@@ -124,7 +124,7 @@ const photos = [
       "A bright winter forest seen through a window, with the dark frame creating a natural border around the scene.",
     technical:
       "The window frame creates contrast and structure, while the overexposed snowy background gives the photo a washed, atmospheric feeling.",
-    image: "/photos/forestwindow.jpeg",
+    image: "/photos/forestwindow.jpg",
     tags: ["winter", "window", "forest", "light"],
   },
   {
@@ -138,7 +138,7 @@ const photos = [
       "A still-life photo of garlic on a wooden surface, using warm light and shallow focus.",
     technical:
       "The main garlic bulb is sharply placed while the foreground and background blur, creating depth and a soft kitchen mood.",
-    image: "/photos/garlic.jpeg",
+    image: "/photos/garlic.jpg",
     tags: ["garlic", "still-life", "kitchen", "warm-light"],
   },
   {
@@ -152,7 +152,7 @@ const photos = [
       "A still-life arrangement of coffee beans stored in glass tubes on a wooden stand.",
     technical:
       "The repeated vertical glass tubes create rhythm, while the warm brown tones connect the wood, beans, and background.",
-    image: "/photos/IMG_2366.jpeg",
+    image: "/photos/IMG_2366.jpg",
     tags: ["coffee", "still-life", "glass", "wood"],
   },
   {
@@ -166,7 +166,7 @@ const photos = [
       "A glowing bulb surrounded by blurred reflections and warm darkness.",
     technical:
       "The image uses bokeh and shallow focus to isolate the bulb, turning a simple object into a dramatic abstract composition.",
-    image: "/photos/IMG_2374.jpeg",
+    image: "/photos/IMG_2374.jpg",
     tags: ["light", "abstract", "bokeh", "warm"],
   },
   {
@@ -180,7 +180,7 @@ const photos = [
       "A squirrel peeks around a wooden post, creating a playful wildlife moment.",
     technical:
       "The post acts as a strong foreground shape, while the squirrel's eye contact creates personality and visual focus.",
-    image: "/photos/IMG_2410.jpeg",
+    image: "/photos/IMG_2410.jpg",
     tags: ["wildlife", "squirrel", "backyard", "winter"],
   },
   {
@@ -194,7 +194,7 @@ const photos = [
       "A close-up of pink orchid petals with strong texture and color detail.",
     technical:
       "The frame fills with the orchid petals, emphasizing pattern, symmetry, and the fine lines in the flower.",
-    image: "/photos/orchid.jpeg",
+    image: "/photos/orchid.jpg",
     tags: ["orchid", "flower", "pink", "macro"],
   },
   {
@@ -208,7 +208,7 @@ const photos = [
       "Pink orchids photographed with a butterfly decoration in the background, creating a layered floral composition.",
     technical:
       "The butterfly sits out of focus while the orchids remain sharp, using depth to separate foreground and background.",
-    image: "/photos/pinkflowerbutterflu.jpeg",
+    image: "/photos/pinkflowerbutterflu.jpg",
     tags: ["orchid", "butterfly", "plants", "depth"],
   },
   {
@@ -222,7 +222,7 @@ const photos = [
       "Green leaves catching bright indoor light, creating a fresh and energetic plant study.",
     technical:
       "Backlighting highlights the edges of the leaves and creates separation from the darker background.",
-    image: "/photos/plant.jpeg",
+    image: "/photos/plant.jpg",
     tags: ["plants", "green", "backlight", "indoor"],
   },
   {
@@ -236,7 +236,7 @@ const photos = [
       "A red flower photographed against window light, framed by surrounding leaves.",
     technical:
       "The backlight reveals the veins of the red petal and uses the darker leaves as a natural frame.",
-    image: "/photos/redflower.jpeg",
+    image: "/photos/redflower.jpg",
     tags: ["flower", "red", "backlight", "plants"],
   },
   {
@@ -250,7 +250,7 @@ const photos = [
       "A squirrel standing in fresh snow beside a wooden post.",
     technical:
       "The subject stands out against the white snow, and the nearby post adds scale and structure to the composition.",
-    image: "/photos/squirrelinsnow.jpeg",
+    image: "/photos/squirrelinsnow.jpg",
     tags: ["wildlife", "squirrel", "snow", "backyard"],
   },
   {
@@ -264,7 +264,7 @@ const photos = [
       "A snowy outdoor scene viewed through a dark window frame and branch lines.",
     technical:
       "The dark window grid contrasts with the bright snow, creating a framed geometric composition.",
-    image: "/photos/window.jpeg",
+    image: "/photos/window.jpg",
     tags: ["winter", "window", "snow", "geometry"],
   },
 ];

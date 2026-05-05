@@ -7,7 +7,6 @@ import {
   ChevronRight,
   Code2,
   Github,
-  LinkedinIcon,
   Mail,
   Moon,
   Search,
@@ -323,8 +322,6 @@ function App() {
           <div>
             <h3>Let’s connect</h3>
             <p>
-              Replace these links with your real GitHub, LinkedIn, email, and resume
-              once you are ready to publish the site.
             </p>
           </div>
           <div className="contact-links">
@@ -332,7 +329,7 @@ function App() {
               <Github size={18} /> GitHub
             </a>
             <a href="https://www.linkedin.com/in/michelle-wu-649383304/" target="_blank" rel="noreferrer">
-              <LinkedinIcon size={18} /> LinkedIn
+              LinkedIn
             </a>
             <a href="mailto:wucmichelle@gmail.com">
               <Mail size={18} /> Email

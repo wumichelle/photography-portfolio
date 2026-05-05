@@ -6,8 +6,6 @@ import {
   ChevronLeft,
   ChevronRight,
   Code2,
-  Github,
-  Linkedin,
   Mail,
   Moon,
   Search,
@@ -187,7 +185,7 @@ function App() {
             transition={{ duration: 0.55 }}
           >
             <span className="eyebrow">Incoming CS student building frontend projects</span>
-            <h2>A photography portfolio built to show coding skill.</h2>
+            <h2>My photography portfolio 2026</h2>
             <p>
               This site combines photography, UI design, structured data, filtering,
               search, responsive layout, animations, and an interactive image viewer.
@@ -281,9 +279,7 @@ function App() {
             <p className="section-kicker">Coding Project</p>
             <h3>What this site demonstrates</h3>
             <p className="muted large">
-              This portfolio is meant to show practical frontend skills, not only
-              photography. Each feature was chosen to demonstrate a skill that future
-              employers, clubs, and recruiters can understand quickly.
+              This portfolio is meant to show some of my favourite photos with the addition of some practical frontend skills :)
             </p>
           </div>
 
@@ -323,18 +319,16 @@ function App() {
           <div>
             <h3>Let’s connect</h3>
             <p>
-              Replace these links with your real GitHub, LinkedIn, email, and resume
-              once you are ready to publish the site.
             </p>
           </div>
           <div className="contact-links">
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
-              <Github size={18} /> GitHub
+            <a href="https://github.com/wumichelle" target="_blank" rel="noreferrer">
+              GitHub
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
-              <Linkedin size={18} /> LinkedIn
+            <a href="https://www.linkedin.com/in/michelle-wu-649383304/" target="_blank" rel="noreferrer">
+              LinkedIn
             </a>
-            <a href="mailto:your-email@example.com">
+            <a href="mailto:wucmichelle@gmail.com">
               <Mail size={18} /> Email
             </a>
           </div>

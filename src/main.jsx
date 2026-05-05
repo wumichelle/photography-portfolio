@@ -271,6 +271,13 @@ const photos = [
 
 const categories = ["All", ...Array.from(new Set(photos.map((photo) => photo.category)))];
 
+const heroPhotos = [
+  photos.find((photo) => photo.title === "Snow Lines Through the Window"),
+  photos.find((photo) => photo.title === "Squirrel Peeking"),
+  photos.find((photo) => photo.title === "Single Light Bulb"),
+  photos.find((photo) => photo.title === "Backlit Green Leaves"),
+].filter(Boolean);
+
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -375,7 +382,7 @@ function App() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.65, delay: 0.1 }}
           >
-            {photos.slice(0, 4).map((photo, index) => (
+            {heroPhotos.map((photo, index) => (
               <div
                 className={index === 0 || index === 3 ? "hero-image tall" : "hero-image"}
                 key={photo.id}

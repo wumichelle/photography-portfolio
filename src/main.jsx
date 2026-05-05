@@ -185,7 +185,7 @@ function App() {
             transition={{ duration: 0.55 }}
           >
             <span className="eyebrow">Incoming CS student building frontend projects</span>
-            <h2>A photography portfolio built to show coding skill.</h2>
+            <h2>My photography portfolio 2026</h2>
             <p>
               This site combines photography, UI design, structured data, filtering,
               search, responsive layout, animations, and an interactive image viewer.

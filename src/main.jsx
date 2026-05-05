@@ -7,7 +7,7 @@ import {
   ChevronRight,
   Code2,
   Github,
-  Linkedin,
+  LinkedinIcon,
   Mail,
   Moon,
   Search,

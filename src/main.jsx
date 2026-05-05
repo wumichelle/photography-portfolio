@@ -328,13 +328,13 @@ function App() {
             </p>
           </div>
           <div className="contact-links">
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a href="https://github.com/wumichelle" target="_blank" rel="noreferrer">
               <Github size={18} /> GitHub
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
-              <Linkedin size={18} /> LinkedIn
+            <a href="https://www.linkedin.com/in/michelle-wu-649383304/" target="_blank" rel="noreferrer">
+              <LinkedinIcon size={18} /> LinkedIn
             </a>
-            <a href="mailto:your-email@example.com">
+            <a href="mailto:wucmichelle@gmail.com">
               <Mail size={18} /> Email
             </a>
           </div>

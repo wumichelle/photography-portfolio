@@ -23,7 +23,7 @@ const photos = [
     year: "2026",
     camera: "Canon / DSLR",
     description:
-      "A quiet winter scene photographed through a foggy or textured window, creating a soft, dreamlike layer over the snow and trees.",
+      "A quiet winter scene photographed through window blinds, creating a soft, dreamlike layer over the snow and trees.",
     technical:
       "The photo uses obstruction and diffusion as part of the composition. The blurred top and bottom edges frame the snowy trees and make the scene feel distant and calm.",
     image: "/photos/blurrywindow.jpg",
@@ -51,7 +51,7 @@ const photos = [
     year: "2026",
     camera: "Canon / DSLR",
     description:
-      "An abstract close-up of metallic ribbon shapes, using reflection and shadow to create a dramatic composition.",
+      "An abstract close-up of metallic ribbon decoration, using reflection and shadow to create a dramatic composition.",
     technical:
       "The narrow focus and dark background isolate the gold strips, creating contrast between reflective texture and negative space.",
     image: "/photos/decoration.jpg",
@@ -65,7 +65,7 @@ const photos = [
     year: "2026",
     camera: "Canon / DSLR",
     description:
-      "A food photo capturing dumplings in a pan, with browned edges and a wooden spoon adding a natural cooking detail.",
+      "A food photo capturing my mom's dumplings in a pan, with browned edges and a wooden spoon adding a natural cooking detail.",
     technical:
       "The photo uses a low kitchen angle and warm highlights to show texture, steam, and the contrast between soft dumpling skin and crisp browned edges.",
     image: "/photos/dumplings.jpg",
@@ -75,7 +75,7 @@ const photos = [
     id: 5,
     title: "Fire in the Snow",
     category: "Night",
-    location: "Backyard",
+    location: "Porch",
     year: "2026",
     camera: "Canon / DSLR",
     description:
@@ -107,7 +107,7 @@ const photos = [
     year: "2026",
     camera: "Canon / DSLR",
     description:
-      "A small vase with red flowers placed among houseplants, creating a quiet domestic still-life scene.",
+      "A small vase with red flowers placed among houseplants, creating a quiet still-life scene.",
     technical:
       "The composition uses layered objects and soft indoor light, with the red flowers acting as the visual focal point.",
     image: "/photos/flowerinvase.jpg",
@@ -129,13 +129,13 @@ const photos = [
   },
   {
     id: 9,
-    title: "Garlic in Morning Light",
+    title: "Garlic",
     category: "Still Life",
     location: "Kitchen",
     year: "2026",
     camera: "Canon / DSLR",
     description:
-      "A still-life photo of garlic on a wooden surface, using warm light and shallow focus.",
+      "A still-life photo of garlic on a wooden cutting board, using warm light and shallow focus.",
     technical:
       "The main garlic bulb is sharply placed while the foreground and background blur, creating depth and a soft kitchen mood.",
     image: "/photos/garlic.jpg",

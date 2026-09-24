@@ -359,7 +359,7 @@ function App() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.55 }}
           >
-            <span className="eyebrow">Currently a senior in highschool</span>
+            <span className="eyebrow"></span>
             <h2>My photography portfolio 2026</h2>
             <p>
               This site combines photography, UI design, structured data, filtering,

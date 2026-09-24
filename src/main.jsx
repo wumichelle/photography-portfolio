@@ -464,7 +464,6 @@ function App() {
               ["Interactive modal", "Users can open photos, view information about the photos, and navigate between images."],
               ["Dark/light mode mode", "Customizable theme state changes the visual system across the whole application."],
               ["Reusable code", "Gallery cards, photo data, filters, and UI sections are organized for expansion."],
-              ["Deployment-ready", "This can be pushed to GitHub and deployed on Vercel as a live portfolio."],
             ].map(([title, text]) => (
               <div className="feature-card" key={title}>
                 <Code2 size={24} />

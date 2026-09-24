@@ -477,7 +477,7 @@ function App() {
         <section id="about" className="section about-section">
           <div>
             <p className="section-kicker">About</p>
-            <h3>Incoming Computer Science student</h3>
+            <h3>Computer Science student</h3>
           </div>
           <p>
             Hi, thanks for visiting my photography portfolio! I am interested in
